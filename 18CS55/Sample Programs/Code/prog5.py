@@ -1,4 +1,5 @@
 # WAP to illustrate working of simple calculator using elif statement
+
 print("Enter the two operands:")
 a = int(input())
 b = int(input())
