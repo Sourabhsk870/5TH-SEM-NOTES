@@ -1,4 +1,3 @@
-# NOTES COMING SOON .....
 
 ## SUBJECT CODE : 18CS56
 
